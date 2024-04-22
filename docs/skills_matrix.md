@@ -60,3 +60,15 @@ Wound closure clips | BTEC | ...
 Nasal pac | X | ...
 
 
+# Key
+Key | Description
+----- | ----- 
+√ | Authorised under PHECC CPGs
+URMPIO | Authorised under PHECC CPGs under registered medical practitioner’s instructions only
+APO | Authorised under PHECC CPGs to assist practitioners only (when applied to EMT to assist paramedic or higher clinical levels)
+√ SA | Authorised subject to special authorisation as per CPG
+BTEC | Authorised subject to Basic Tactical Emergency Care rules
+* | Non-core specifi ed element or action 
+√ * | Non-core specifi ed element or action for identifi ed clinical level
+x | Skill not for Clinical level
+
