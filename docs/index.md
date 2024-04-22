@@ -12,7 +12,7 @@ So Learn and keep learning
 ## What
 
 ### Aide Memoire / Cheat Sheets
-This section has has a number of Aid Memoire & Cheat Sheets in different formats
+This section has has a number of Aide Memoire & Cheat Sheets in different formats
 
 ### Skills Matrix
 This section has the Skills Matrix and links to usefull videos
