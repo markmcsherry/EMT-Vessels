@@ -1,17 +1,23 @@
 
 
-# EMT Medications Matrix
+# Medications Matrix
 Based off [2021 CPG's](https://www.phecit.ie/PHECC/Clinical_Resources/Clinical_Practice_Guidelines__CPGs_/2021_edition_CPGs.aspx)
 
 Always Check sources and local/provider poilcies - for informationl purposes only!!
 
 
+## EFR MEDICATION MATRIX
+Medication | Route | Links | EMTV Podcast
+----- | ----- | ----- | -----
+Aspirin | PO | ... | ...
+Oxygen | INH | ... | ...
+Glucose gel | buccal | ... | ...
+Glyceryl Trinitrate | ASSIST SL | ... | ...
+Adrenaline (1:1000) | ASSIST Autoinjector | ... | ...
+Salbutamol | ASSIST MDI | ... | ...
 
 
-
-
-
-## OTHER
+## EMT MEDICATION MATRIX
 Medication | Route | Links | EMTV Podcast
 ----- | ----- | ----- | -----
 Aspirin | PO | ... | ...
