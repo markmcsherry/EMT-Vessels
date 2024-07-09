@@ -2,9 +2,9 @@ site_name: EMT Vessels
 nav:
     - Home: index.md
     - Skills Matrix: skills_matrix.md
-    - Aide Memoire: first_aid/am/aide_memoire.md
-    - Mental Health: first_aid/mhfa/mental_health.md
-    - PHECC: first_aid/phecc.md
+    - Aide Memoire: aide_memoire.md
+    - Mental Health: mental_health.md
+    - PHECC: phecc.md
     - About: about.md
 theme:
   name: 'material'
